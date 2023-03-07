@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.img {
+  background-image: url('/2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.content_bg {
+  background-image: url('/pexels-min-an-1441122.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.content_img_footer {
+  background-image: url('/pexels-asad-photo-maldives-3320497.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.about_img {
+  background-image: url('/—Pngtree—orange cocktail_6240337.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
